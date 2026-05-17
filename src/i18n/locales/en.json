@@ -1,0 +1,113 @@
+{
+  "brand": "Atelier BCI",
+  "nav": {
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "consumers": "For Consumers"
+  },
+  "home": {
+    "metaTitle": "Atelier BCI — Professional masks, ampoules & powders",
+    "metaDesc": "Europe's specialist in professional single-dose masks, ampoules and powders. Trade-only.",
+    "heroTitle": "Europe's specialist in professional masks, ampoules & powders.",
+    "heroSub": "20+ years of high-performance formulas. Trade-only — supplied to manufacturers, importers and wholesalers worldwide.",
+    "scroll": "Scroll",
+    "whoLabel": "WHO WE ARE",
+    "whoText": "Atelier BCI is an internationally operating niche firm, specialising in high-performance professional cosmetic treatments. We develop, manufacture, and market our formulas to manufacturers, importers, and wholesalers worldwide.",
+    "stat1": "Years",
+    "stat2": "Categories",
+    "stat3Label": "Europe & Beyond",
+    "formulasLabel": "THE FORMULAS",
+    "formulasHeading": "Formulated for professionals.",
+    "masksTitle": "Masks",
+    "masksDesc": "Single-dose professional face masks. High-performance actives, immediate results.",
+    "ampoulesTitle": "Ampoules",
+    "ampoulesDesc": "Concentrated treatment ampoules. Rapid absorption, measurable results.",
+    "powdersTitle": "Powders",
+    "powdersDesc": "Specialty treatment powders. Consistent, precise, single-dose.",
+    "view": "View",
+    "formulasNote": "All products available under Atelier BCI label or private label for qualified trade partners. Minimum order quantities apply.",
+    "row1Heading": "Single-dose philosophy",
+    "row1Text": "Every formula is packaged for one treatment. Hygienic, practical, consistent.",
+    "row2Heading": "Trade-only distribution",
+    "row2Text": "Atelier BCI supplies exclusively to manufacturers, importers, and wholesalers. Discretion is standard.",
+    "orderHeading": "Ready to order?",
+    "orderSub": "We operate on a trade invoice model. Browse our range and request a quote — we respond within one business day.",
+    "ctaPrimary": "View The Formulas",
+    "ctaSecondary": "Contact Us"
+  },
+  "products": {
+    "metaTitle": "The Formulas — Atelier BCI",
+    "metaDesc": "Professional single-dose masks, ampoules and powders for trade partners.",
+    "title": "The Formulas",
+    "subtitle": "Professional treatments. Single-dose precision.",
+    "filters": { "all": "All", "masks": "Masks", "ampoules": "Ampoules", "powders": "Powders" },
+    "request": "Request quote",
+    "items": {
+      "hydraMask": { "name": "Hydra Replenish Mask", "desc": "Intensive single-dose hydration mask with hyaluronic complex." },
+      "purifyMask": { "name": "Purify Clay Mask", "desc": "Deep-cleansing kaolin mask for combination and oily skin." },
+      "liftMask": { "name": "Lift Contour Mask", "desc": "Firming mask with peptide complex for visible lift." },
+      "vitcAmp": { "name": "Vitamin C Ampoule", "desc": "Stabilised 10% L-ascorbic concentrate for radiance and tone." },
+      "retinolAmp": { "name": "Retinol Renewal Ampoule", "desc": "Encapsulated retinol for nightly cellular renewal." },
+      "haAmp": { "name": "Hyaluronic Boost Ampoule", "desc": "Multi-weight hyaluronic acid for deep plumping." },
+      "enzymePowder": { "name": "Enzyme Polish Powder", "desc": "Activated enzyme powder for gentle weekly resurfacing." },
+      "collagenPowder": { "name": "Collagen Recovery Powder", "desc": "Marine collagen powder for post-treatment recovery." },
+      "mineralPowder": { "name": "Mineral Detox Powder", "desc": "Mineral-rich detox powder for clarifying treatments." }
+    }
+  },
+  "about": {
+    "metaTitle": "About — Atelier BCI",
+    "metaDesc": "Atelier BCI: 20+ years of professional cosmetic formulas, made in Europe.",
+    "title": "About Atelier BCI",
+    "s1Heading": "The Company",
+    "s1Text": "Atelier BCI is an internationally operating niche firm with over 20 years of experience in high-performance cosmetic treatments. We develop, manufacture, and market professional masks, ampoules, and powders.",
+    "s2Heading": "The Philosophy",
+    "s2Text": "We use only the newest and finest active ingredients. Speed of action and ease of use are central to every formula.",
+    "s3Heading": "Trade Partners",
+    "s3Text": "Our clients include renowned manufacturers, importers, and wholesalers in the international cosmetics market. Discretion is not a promise — it is a given.",
+    "s4Heading": "Where We Operate",
+    "s4Caption": "Primarily serving Europe, with global reach."
+  },
+  "contact": {
+    "metaTitle": "Contact — Atelier BCI",
+    "metaDesc": "Get in touch with Atelier BCI in Bloemendaal, the Netherlands.",
+    "title": "Contact",
+    "hours": "Mon–Fri, 09:00–17:00 CET",
+    "formTitle": "Send us a message",
+    "name": "Name",
+    "company": "Company",
+    "country": "Country",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send message",
+    "subjects": {
+      "general": "General Inquiry",
+      "product": "Product Info",
+      "quote": "Quote Request",
+      "private": "Private Label",
+      "other": "Other"
+    },
+    "success": "Thank you. Your message is ready in your mail client.",
+    "tradeNote": "Atelier BCI works exclusively with trade partners. For consumer inquiries, visit our consumer page."
+  },
+  "consumers": {
+    "metaTitle": "For Consumers — Atelier BCI",
+    "metaDesc": "Atelier BCI for home — coming soon.",
+    "title": "Coming Soon.",
+    "sub": "Atelier BCI professional formulas, designed for home. A new experience is on its way.",
+    "discover": "Discover our professional range."
+  },
+  "footer": {
+    "tagline": "Professional cosmetic formulas. Made in Europe.",
+    "navHeading": "Navigate",
+    "contactHeading": "Contact",
+    "rights": "All rights reserved."
+  },
+  "quote": {
+    "title": "Request a quote",
+    "product": "Product",
+    "submit": "Send request",
+    "success": "Thank you — your request is ready in your mail client."
+  }
+}

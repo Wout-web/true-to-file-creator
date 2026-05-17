@@ -1,0 +1,113 @@
+{
+  "brand": "Atelier BCI",
+  "nav": {
+    "products": "Productos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "consumers": "Para consumidores"
+  },
+  "home": {
+    "metaTitle": "Atelier BCI — Mascarillas, ampollas y polvos profesionales",
+    "metaDesc": "Especialista europeo en mascarillas, ampollas y polvos profesionales monodosis. Solo para el canal profesional.",
+    "heroTitle": "El especialista europeo en mascarillas, ampollas y polvos profesionales.",
+    "heroSub": "Más de 20 años de fórmulas de alto rendimiento. Exclusivamente para fabricantes, importadores y mayoristas en todo el mundo.",
+    "scroll": "Desplazar",
+    "whoLabel": "QUIÉNES SOMOS",
+    "whoText": "Atelier BCI es una empresa de nicho con presencia internacional, especializada en tratamientos cosméticos profesionales de alto rendimiento. Desarrollamos, fabricamos y comercializamos nuestras fórmulas para fabricantes, importadores y mayoristas en todo el mundo.",
+    "stat1": "Años",
+    "stat2": "Categorías",
+    "stat3Label": "Europa y más allá",
+    "formulasLabel": "LAS FÓRMULAS",
+    "formulasHeading": "Formuladas para profesionales.",
+    "masksTitle": "Mascarillas",
+    "masksDesc": "Mascarillas faciales profesionales monodosis. Activos de alto rendimiento, resultados inmediatos.",
+    "ampoulesTitle": "Ampollas",
+    "ampoulesDesc": "Ampollas de tratamiento concentradas. Absorción rápida, resultados medibles.",
+    "powdersTitle": "Polvos",
+    "powdersDesc": "Polvos de tratamiento especializados. Consistentes, precisos, monodosis.",
+    "view": "Ver",
+    "formulasNote": "Todos los productos disponibles bajo la marca Atelier BCI o marca privada para socios cualificados. Aplican cantidades mínimas de pedido.",
+    "row1Heading": "Filosofía monodosis",
+    "row1Text": "Cada fórmula está envasada para un único tratamiento. Higiénica, práctica, consistente.",
+    "row2Heading": "Distribución solo profesional",
+    "row2Text": "Atelier BCI suministra exclusivamente a fabricantes, importadores y mayoristas. La discreción es estándar.",
+    "orderHeading": "¿Listo para pedir?",
+    "orderSub": "Trabajamos con facturación comercial. Explore nuestra gama y solicite presupuesto — respondemos en un día laborable.",
+    "ctaPrimary": "Ver las fórmulas",
+    "ctaSecondary": "Contáctanos"
+  },
+  "products": {
+    "metaTitle": "Las Fórmulas — Atelier BCI",
+    "metaDesc": "Mascarillas, ampollas y polvos profesionales monodosis para socios comerciales.",
+    "title": "Las Fórmulas",
+    "subtitle": "Tratamientos profesionales. Precisión monodosis.",
+    "filters": { "all": "Todo", "masks": "Mascarillas", "ampoules": "Ampollas", "powders": "Polvos" },
+    "request": "Solicitar presupuesto",
+    "items": {
+      "hydraMask": { "name": "Mascarilla Hydra Replenish", "desc": "Mascarilla hidratante intensiva monodosis con complejo de ácido hialurónico." },
+      "purifyMask": { "name": "Mascarilla Purify Clay", "desc": "Mascarilla de caolín purificante para pieles mixtas y grasas." },
+      "liftMask": { "name": "Mascarilla Lift Contour", "desc": "Mascarilla reafirmante con complejo de péptidos para un lifting visible." },
+      "vitcAmp": { "name": "Ampolla Vitamina C", "desc": "Concentrado estabilizado de ácido L-ascórbico al 10% para luminosidad." },
+      "retinolAmp": { "name": "Ampolla Retinol Renewal", "desc": "Retinol encapsulado para la renovación celular nocturna." },
+      "haAmp": { "name": "Ampolla Hyaluronic Boost", "desc": "Ácido hialurónico multimolecular para rellenar en profundidad." },
+      "enzymePowder": { "name": "Polvo Enzyme Polish", "desc": "Polvo enzimático activado para una renovación semanal suave." },
+      "collagenPowder": { "name": "Polvo Collagen Recovery", "desc": "Polvo de colágeno marino para la recuperación postratamiento." },
+      "mineralPowder": { "name": "Polvo Mineral Detox", "desc": "Polvo detox rico en minerales para tratamientos clarificantes." }
+    }
+  },
+  "about": {
+    "metaTitle": "Nosotros — Atelier BCI",
+    "metaDesc": "Atelier BCI: más de 20 años de fórmulas cosméticas profesionales, hechas en Europa.",
+    "title": "Sobre Atelier BCI",
+    "s1Heading": "La empresa",
+    "s1Text": "Atelier BCI es una empresa de nicho con presencia internacional y más de 20 años de experiencia en tratamientos cosméticos de alto rendimiento. Desarrollamos, fabricamos y comercializamos mascarillas, ampollas y polvos profesionales.",
+    "s2Heading": "La filosofía",
+    "s2Text": "Usamos solo los activos más nuevos y de mayor calidad. La velocidad de acción y la facilidad de uso son centrales en cada fórmula.",
+    "s3Heading": "Socios comerciales",
+    "s3Text": "Nuestros clientes incluyen reconocidos fabricantes, importadores y mayoristas del mercado cosmético internacional. La discreción no es una promesa — es un hecho.",
+    "s4Heading": "Dónde operamos",
+    "s4Caption": "Principalmente en Europa, con alcance global."
+  },
+  "contact": {
+    "metaTitle": "Contacto — Atelier BCI",
+    "metaDesc": "Contacte con Atelier BCI en Bloemendaal, Países Bajos.",
+    "title": "Contacto",
+    "hours": "Lun–Vie, 09:00–17:00 CET",
+    "formTitle": "Envíenos un mensaje",
+    "name": "Nombre",
+    "company": "Empresa",
+    "country": "País",
+    "email": "Correo electrónico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "submit": "Enviar mensaje",
+    "subjects": {
+      "general": "Consulta general",
+      "product": "Información de producto",
+      "quote": "Solicitud de presupuesto",
+      "private": "Marca privada",
+      "other": "Otro"
+    },
+    "success": "Gracias. Su mensaje está listo en su cliente de correo.",
+    "tradeNote": "Atelier BCI trabaja exclusivamente con socios comerciales. Para consultas de consumidores, visite nuestra página."
+  },
+  "consumers": {
+    "metaTitle": "Para consumidores — Atelier BCI",
+    "metaDesc": "Atelier BCI para el hogar — próximamente.",
+    "title": "Próximamente.",
+    "sub": "Las fórmulas profesionales de Atelier BCI, diseñadas para el hogar. Una nueva experiencia está en camino.",
+    "discover": "Descubra nuestra gama profesional."
+  },
+  "footer": {
+    "tagline": "Fórmulas cosméticas profesionales. Hechas en Europa.",
+    "navHeading": "Navegación",
+    "contactHeading": "Contacto",
+    "rights": "Todos los derechos reservados."
+  },
+  "quote": {
+    "title": "Solicitar presupuesto",
+    "product": "Producto",
+    "submit": "Enviar solicitud",
+    "success": "Gracias — su solicitud está lista en su cliente de correo."
+  }
+}
