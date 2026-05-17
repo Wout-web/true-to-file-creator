@@ -1,0 +1,113 @@
+{
+  "brand": "Atelier BCI",
+  "nav": {
+    "products": "Produkte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "consumers": "Für Endkunden"
+  },
+  "home": {
+    "metaTitle": "Atelier BCI — Professionelle Masken, Ampullen & Pulver",
+    "metaDesc": "Europas Spezialist für professionelle Einzeldosis-Masken, Ampullen und Pulver. Nur für den Fachhandel.",
+    "heroTitle": "Europas Spezialist für professionelle Masken, Ampullen & Pulver.",
+    "heroSub": "Über 20 Jahre Hochleistungsformulierungen. Ausschließlich für Hersteller, Importeure und Großhändler weltweit.",
+    "scroll": "Scroll",
+    "whoLabel": "WER WIR SIND",
+    "whoText": "Atelier BCI ist ein international tätiges Nischenunternehmen, spezialisiert auf professionelle Hochleistungs-Kosmetikbehandlungen. Wir entwickeln, produzieren und vermarkten unsere Formeln an Hersteller, Importeure und Großhändler weltweit.",
+    "stat1": "Jahre",
+    "stat2": "Kategorien",
+    "stat3Label": "Europa & weltweit",
+    "formulasLabel": "DIE FORMELN",
+    "formulasHeading": "Formuliert für Profis.",
+    "masksTitle": "Masken",
+    "masksDesc": "Professionelle Einzeldosis-Gesichtsmasken. Hochleistungswirkstoffe, sofortige Ergebnisse.",
+    "ampoulesTitle": "Ampullen",
+    "ampoulesDesc": "Konzentrierte Behandlungsampullen. Schnelle Aufnahme, messbare Ergebnisse.",
+    "powdersTitle": "Pulver",
+    "powdersDesc": "Spezialbehandlungspulver. Konsistent, präzise, Einzeldosis.",
+    "view": "Ansehen",
+    "formulasNote": "Alle Produkte erhältlich unter Atelier BCI-Label oder als Private Label für qualifizierte Handelspartner. Mindestbestellmengen gelten.",
+    "row1Heading": "Einzeldosis-Philosophie",
+    "row1Text": "Jede Formel ist für eine Behandlung verpackt. Hygienisch, praktisch, konsistent.",
+    "row2Heading": "Nur für den Fachhandel",
+    "row2Text": "Atelier BCI beliefert ausschließlich Hersteller, Importeure und Großhändler. Diskretion ist Standard.",
+    "orderHeading": "Bereit zu bestellen?",
+    "orderSub": "Wir arbeiten auf Rechnungsbasis im Handel. Sehen Sie unser Sortiment und fordern Sie ein Angebot an — wir antworten innerhalb eines Werktages.",
+    "ctaPrimary": "Die Formeln ansehen",
+    "ctaSecondary": "Kontaktieren Sie uns"
+  },
+  "products": {
+    "metaTitle": "Die Formeln — Atelier BCI",
+    "metaDesc": "Professionelle Einzeldosis-Masken, Ampullen und Pulver für Handelspartner.",
+    "title": "Die Formeln",
+    "subtitle": "Professionelle Behandlungen. Einzeldosis-Präzision.",
+    "filters": { "all": "Alle", "masks": "Masken", "ampoules": "Ampullen", "powders": "Pulver" },
+    "request": "Angebot anfordern",
+    "items": {
+      "hydraMask": { "name": "Hydra Replenish Mask", "desc": "Intensive Einzeldosis-Feuchtigkeitsmaske mit Hyaluronkomplex." },
+      "purifyMask": { "name": "Purify Clay Mask", "desc": "Tiefenreinigende Kaolinmaske für Misch- und fettige Haut." },
+      "liftMask": { "name": "Lift Contour Mask", "desc": "Straffende Maske mit Peptidkomplex für sichtbaren Lift." },
+      "vitcAmp": { "name": "Vitamin C Ampulle", "desc": "Stabilisiertes 10% L-Ascorbinsäure-Konzentrat für Ausstrahlung." },
+      "retinolAmp": { "name": "Retinol Renewal Ampulle", "desc": "Verkapseltes Retinol für nächtliche Zellerneuerung." },
+      "haAmp": { "name": "Hyaluronic Boost Ampulle", "desc": "Multi-Molekül Hyaluronsäure für tiefes Auffüllen." },
+      "enzymePowder": { "name": "Enzyme Polish Pulver", "desc": "Aktiviertes Enzympulver für sanfte wöchentliche Erneuerung." },
+      "collagenPowder": { "name": "Collagen Recovery Pulver", "desc": "Marines Kollagenpulver zur Erholung nach Behandlungen." },
+      "mineralPowder": { "name": "Mineral Detox Pulver", "desc": "Mineralreiches Detox-Pulver für klärende Behandlungen." }
+    }
+  },
+  "about": {
+    "metaTitle": "Über uns — Atelier BCI",
+    "metaDesc": "Atelier BCI: über 20 Jahre professionelle Kosmetikformeln aus Europa.",
+    "title": "Über Atelier BCI",
+    "s1Heading": "Das Unternehmen",
+    "s1Text": "Atelier BCI ist ein international tätiges Nischenunternehmen mit über 20 Jahren Erfahrung in Hochleistungs-Kosmetikbehandlungen. Wir entwickeln, produzieren und vermarkten professionelle Masken, Ampullen und Pulver.",
+    "s2Heading": "Die Philosophie",
+    "s2Text": "Wir verwenden ausschließlich die neuesten und besten Wirkstoffe. Wirkungsgeschwindigkeit und einfache Anwendung stehen im Zentrum jeder Formel.",
+    "s3Heading": "Handelspartner",
+    "s3Text": "Unsere Kunden sind renommierte Hersteller, Importeure und Großhändler im internationalen Kosmetikmarkt. Diskretion ist kein Versprechen — sie ist selbstverständlich.",
+    "s4Heading": "Wo wir tätig sind",
+    "s4Caption": "Hauptsächlich in Europa, mit globaler Reichweite."
+  },
+  "contact": {
+    "metaTitle": "Kontakt — Atelier BCI",
+    "metaDesc": "Kontaktieren Sie Atelier BCI in Bloemendaal, Niederlande.",
+    "title": "Kontakt",
+    "hours": "Mo–Fr, 09:00–17:00 MEZ",
+    "formTitle": "Senden Sie uns eine Nachricht",
+    "name": "Name",
+    "company": "Firma",
+    "country": "Land",
+    "email": "E-Mail",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "submit": "Nachricht senden",
+    "subjects": {
+      "general": "Allgemeine Anfrage",
+      "product": "Produktinformation",
+      "quote": "Angebotsanfrage",
+      "private": "Private Label",
+      "other": "Sonstiges"
+    },
+    "success": "Danke. Ihre Nachricht ist in Ihrem Mail-Programm bereit.",
+    "tradeNote": "Atelier BCI arbeitet ausschließlich mit Handelspartnern. Für Endkundenanfragen besuchen Sie unsere Verbraucherseite."
+  },
+  "consumers": {
+    "metaTitle": "Für Endkunden — Atelier BCI",
+    "metaDesc": "Atelier BCI für zu Hause — bald erhältlich.",
+    "title": "Demnächst.",
+    "sub": "Atelier BCI professionelle Formeln, für zu Hause entworfen. Ein neues Erlebnis ist unterwegs.",
+    "discover": "Entdecken Sie unser professionelles Sortiment."
+  },
+  "footer": {
+    "tagline": "Professionelle Kosmetikformeln. Hergestellt in Europa.",
+    "navHeading": "Navigation",
+    "contactHeading": "Kontakt",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "quote": {
+    "title": "Angebot anfordern",
+    "product": "Produkt",
+    "submit": "Anfrage senden",
+    "success": "Danke — Ihre Anfrage ist in Ihrem Mail-Programm bereit."
+  }
+}

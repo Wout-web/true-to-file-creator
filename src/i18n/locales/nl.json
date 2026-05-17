@@ -1,0 +1,113 @@
+{
+  "brand": "Atelier BCI",
+  "nav": {
+    "products": "Producten",
+    "about": "Over ons",
+    "contact": "Contact",
+    "consumers": "Voor consumenten"
+  },
+  "home": {
+    "metaTitle": "Atelier BCI — Professionele maskers, ampullen & poeders",
+    "metaDesc": "Europa's specialist in professionele single-dose maskers, ampullen en poeders. Alleen voor de vakhandel.",
+    "heroTitle": "Europa's specialist in professionele maskers, ampullen & poeders.",
+    "heroSub": "Meer dan 20 jaar high-performance formules. Uitsluitend voor fabrikanten, importeurs en groothandels wereldwijd.",
+    "scroll": "Scroll",
+    "whoLabel": "WIE WIJ ZIJN",
+    "whoText": "Atelier BCI is een internationaal opererend nichebedrijf, gespecialiseerd in high-performance professionele cosmetische behandelingen. Wij ontwikkelen, produceren en vermarkten onze formules aan fabrikanten, importeurs en groothandels wereldwijd.",
+    "stat1": "Jaar",
+    "stat2": "Categorieën",
+    "stat3Label": "Europa & daarbuiten",
+    "formulasLabel": "DE FORMULES",
+    "formulasHeading": "Geformuleerd voor professionals.",
+    "masksTitle": "Maskers",
+    "masksDesc": "Professionele single-dose gezichtsmaskers. High-performance actieven, direct resultaat.",
+    "ampoulesTitle": "Ampullen",
+    "ampoulesDesc": "Geconcentreerde behandelampullen. Snelle opname, meetbaar resultaat.",
+    "powdersTitle": "Poeders",
+    "powdersDesc": "Specialistische behandelpoeders. Consistent, precies, single-dose.",
+    "view": "Bekijk",
+    "formulasNote": "Alle producten verkrijgbaar onder Atelier BCI label of private label voor gekwalificeerde handelspartners. Minimale bestelhoeveelheden van toepassing.",
+    "row1Heading": "Single-dose filosofie",
+    "row1Text": "Elke formule is verpakt voor één behandeling. Hygiënisch, praktisch, consistent.",
+    "row2Heading": "Uitsluitend voor de vakhandel",
+    "row2Text": "Atelier BCI levert exclusief aan fabrikanten, importeurs en groothandels. Discretie is standaard.",
+    "orderHeading": "Klaar om te bestellen?",
+    "orderSub": "Wij werken op factuurbasis voor handelspartners. Bekijk ons assortiment en vraag een offerte aan — wij reageren binnen één werkdag.",
+    "ctaPrimary": "Bekijk de formules",
+    "ctaSecondary": "Neem contact op"
+  },
+  "products": {
+    "metaTitle": "De Formules — Atelier BCI",
+    "metaDesc": "Professionele single-dose maskers, ampullen en poeders voor handelspartners.",
+    "title": "De Formules",
+    "subtitle": "Professionele behandelingen. Single-dose precisie.",
+    "filters": { "all": "Alles", "masks": "Maskers", "ampoules": "Ampullen", "powders": "Poeders" },
+    "request": "Offerte aanvragen",
+    "items": {
+      "hydraMask": { "name": "Hydra Replenish Mask", "desc": "Intensief single-dose hydratatiemasker met hyaluronzuurcomplex." },
+      "purifyMask": { "name": "Purify Clay Mask", "desc": "Diepreinigend kaolienmasker voor gemengde en vette huid." },
+      "liftMask": { "name": "Lift Contour Mask", "desc": "Verstevigend masker met peptidecomplex voor zichtbare lift." },
+      "vitcAmp": { "name": "Vitamine C Ampul", "desc": "Gestabiliseerd 10% L-ascorbinezuur voor stralende, egale huid." },
+      "retinolAmp": { "name": "Retinol Renewal Ampul", "desc": "Ingekapseld retinol voor nachtelijke celvernieuwing." },
+      "haAmp": { "name": "Hyaluronic Boost Ampul", "desc": "Multi-molecuul hyaluronzuur voor diepe opvulling." },
+      "enzymePowder": { "name": "Enzyme Polish Poeder", "desc": "Geactiveerd enzympoeder voor zachte wekelijkse vernieuwing." },
+      "collagenPowder": { "name": "Collagen Recovery Poeder", "desc": "Marien collageenpoeder voor herstel na behandeling." },
+      "mineralPowder": { "name": "Mineral Detox Poeder", "desc": "Mineraalrijk detoxpoeder voor zuiverende behandelingen." }
+    }
+  },
+  "about": {
+    "metaTitle": "Over ons — Atelier BCI",
+    "metaDesc": "Atelier BCI: 20+ jaar professionele cosmetische formules, gemaakt in Europa.",
+    "title": "Over Atelier BCI",
+    "s1Heading": "Het bedrijf",
+    "s1Text": "Atelier BCI is een internationaal opererend nichebedrijf met meer dan 20 jaar ervaring in high-performance cosmetische behandelingen. Wij ontwikkelen, produceren en vermarkten professionele maskers, ampullen en poeders.",
+    "s2Heading": "De filosofie",
+    "s2Text": "Wij gebruiken uitsluitend de nieuwste en beste actieve ingrediënten. Werkingssnelheid en gebruiksgemak staan centraal in elke formule.",
+    "s3Heading": "Handelspartners",
+    "s3Text": "Onze klanten zijn vooraanstaande fabrikanten, importeurs en groothandels in de internationale cosmeticamarkt. Discretie is geen belofte — het is vanzelfsprekend.",
+    "s4Heading": "Waar wij actief zijn",
+    "s4Caption": "Voornamelijk actief in Europa, met wereldwijd bereik."
+  },
+  "contact": {
+    "metaTitle": "Contact — Atelier BCI",
+    "metaDesc": "Neem contact op met Atelier BCI in Bloemendaal, Nederland.",
+    "title": "Contact",
+    "hours": "Ma–Vr, 09:00–17:00 CET",
+    "formTitle": "Stuur ons een bericht",
+    "name": "Naam",
+    "company": "Bedrijf",
+    "country": "Land",
+    "email": "E-mail",
+    "subject": "Onderwerp",
+    "message": "Bericht",
+    "submit": "Verstuur bericht",
+    "subjects": {
+      "general": "Algemene vraag",
+      "product": "Productinformatie",
+      "quote": "Offerteaanvraag",
+      "private": "Private Label",
+      "other": "Anders"
+    },
+    "success": "Dank u. Uw bericht staat klaar in uw mailprogramma.",
+    "tradeNote": "Atelier BCI werkt uitsluitend met handelspartners. Voor consumentenvragen, bezoek onze consumentenpagina."
+  },
+  "consumers": {
+    "metaTitle": "Voor consumenten — Atelier BCI",
+    "metaDesc": "Atelier BCI voor thuis — binnenkort beschikbaar.",
+    "title": "Binnenkort.",
+    "sub": "Atelier BCI professionele formules, ontworpen voor thuis. Een nieuwe ervaring komt eraan.",
+    "discover": "Ontdek ons professionele assortiment."
+  },
+  "footer": {
+    "tagline": "Professionele cosmetische formules. Gemaakt in Europa.",
+    "navHeading": "Navigatie",
+    "contactHeading": "Contact",
+    "rights": "Alle rechten voorbehouden."
+  },
+  "quote": {
+    "title": "Offerte aanvragen",
+    "product": "Product",
+    "submit": "Aanvraag versturen",
+    "success": "Dank u — uw aanvraag staat klaar in uw mailprogramma."
+  }
+}
